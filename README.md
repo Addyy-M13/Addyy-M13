@@ -50,7 +50,7 @@ Currently: **Venture Research @ SH1P** (backed by Anthropic), helping evaluate e
 
 ## What I've done
 
-✓ **Shipped a product solo** — used by 7k+ people across 7+ countries, entirely organic growth  
+✓ **Shipped a product solo** — used by people across 7+ countries, entirely organic growth  
 ✓ **F1 in Schools World Final** — National Rank 4, represented India at global competition  
 ✓ **Learning by building** — every project teaches me something new  
 ✓ **Venture Research** — evaluated and analyzed 50+ early-stage startups  
