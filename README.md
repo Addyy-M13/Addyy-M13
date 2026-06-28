@@ -1,9 +1,4 @@
-**Building at the intersection of AI and markets**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/adwaitm1301)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:adwait.m.1301@gmail.com)
-
----
 
 ## Who I am
 
